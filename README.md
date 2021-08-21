@@ -1,4 +1,43 @@
-# myFirstGameSnake
-Mod 1 Project - Simple snake game using JavaScript, HTML, and CSS.
-
-This project was a ton of fun. I loved getting started with game functions and learning how to break a process into individual pieces. One of my favorite tech pieces I worked with, Import/Export in JS, really helped me through that process and helped me keep things clean and organized. Some of the functions were a little over my head but working with the grid function and other tech was simple enough.  
+# Snake
+​
+This was my first game built using JS, CSS, and HTML. It is a browser based copy of the game snake in which you collect the food pellets to grow larger and increase your score.
+Touching the walls or yourself will result in game over. 
+​
+## Getting Started
+​
+Opening the html file and deploying a live server will load the game. To begin the game, touch any arrow key to move the snake. 
+​
+### Prerequisites
+​
+A web browser
+​
+```
+Chrome, Firefox, Edge...
+```
+​
+## Deployment
+​
+Github Pages
+​
+## Versioning
+​
+V1.0
+​
+## Authors
+​
+* **Jace Dodge** - (**Kyle Cook**)
+​
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+​
+## License
+​
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+​
+## Acknowledgments
+​
+* Many many youtube resources that have been helping me through my dev journey.
+​
+## APi
+​
+API SNIPPET
+​
