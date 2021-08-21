@@ -25,7 +25,7 @@ V1.0
 ​
 ## Authors
 ​
-* **Jace Dodge** - (**Kyle Cook**)
+* **Jace Dodge**
 ​
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 ​
@@ -36,6 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 ​
 * Many many youtube resources that have been helping me through my dev journey.
+* (**Kyle Cook**)
 ​
 ## APi
 ​
