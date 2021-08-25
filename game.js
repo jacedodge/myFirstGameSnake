@@ -26,6 +26,7 @@ draw()
 
 }
 
+//Kicks off the function
 window.requestAnimationFrame(main)
 
 //Function that handles positioning
@@ -42,6 +43,7 @@ drawSnake(gameBoard)
 drawFood(gameBoard)
 }
 
+//Game over setup
 function checkDeath() {
     gameOver = outsideGrid(getSnakeHead()) || snakeIntersection()
 }

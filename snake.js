@@ -1,7 +1,7 @@
 import { getInputDirection } from "./input.js"
 
 //snakeSpeed controls the speed of the game
-export const snakeSpeed = 5
+export const snakeSpeed = 10
 const snakeBody = [{x:11, y:11}]
 let newSegments = 0
 
@@ -17,8 +17,10 @@ snakeBody[0].x += inputDirection.x
 snakeBody[0].y += inputDirection.y
 }
 
+//Pulling for score
 export {snakeBody}
 
+//Draws the snake head and all segements on the board
 export function draw(gameBoard) {
 snakeBody.forEach(segment => {
 const snakeElement = document.createElement('div')
@@ -28,6 +30,7 @@ snakeElement.classList.add('snake')
 gameBoard.appendChild(snakeElement)
 })
 }
+
 
 export function expandSnake(amount) {
     newSegments += amount
