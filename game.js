@@ -11,7 +11,7 @@ function main (currentTime) {
 if (gameOver){
     alert(snakeBody.length)
    if (confirm('Press okay to restart')) {
-       window.location ='/'
+       window.location ='https://jacedodge.github.io/myFirstGameSnake/'
    }
    return
 }
